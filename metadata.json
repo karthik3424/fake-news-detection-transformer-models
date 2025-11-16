@@ -1,0 +1,5 @@
+{
+  "name": "AI Fake News Detector",
+  "description": "An interactive web application that uses AI to simulate fake news detection with models like BERT and RoBERTa. Users can input news text, select a model, and receive an analysis of whether the content is likely real or fake, complete with a confidence score and explanation.",
+  "requestFramePermissions": []
+}
